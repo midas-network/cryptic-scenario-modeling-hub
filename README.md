@@ -130,8 +130,9 @@ can help advance the science of scenario projections. This is a unique
 case study of a hypothetical outbreak, where the full ground truth is known, 
 allowing for a full evaluation of model accuracy and proper accounting for 
 deviations between scenario assumptions and reality, which has been a limitation 
-with prior SMH evaluation. Reliance on real-world disease data is restricted 
-to a “single realization”, which severely limits model improvement.
+with prior [SMH evaluation](https://www.nature.com/articles/s41467-023-42680-x). 
+Reliance on real-world disease data is restricted to a “single realization”, 
+which severely limits model improvement.
 
 Thus, this work will pave the way for a large library of (synthetic) outbreak data 
 to improve calibration and evaluation of future disease models. 
